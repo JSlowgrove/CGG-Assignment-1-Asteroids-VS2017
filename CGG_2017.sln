@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{A05A2F59-30AF-489E-D394-270D55B9817D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "i7218850", "i7218850\i7218850.2017.vcxproj", "{4360AD9E-59F9-435D-920A-8D70A92E5E63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4360AD9E-59F9-435D-920A-8D70A92E5E63}.Debug|x64.ActiveCfg = Debug|x64
+		{4360AD9E-59F9-435D-920A-8D70A92E5E63}.Debug|x64.Build.0 = Debug|x64
+		{4360AD9E-59F9-435D-920A-8D70A92E5E63}.Release|x64.ActiveCfg = Release|x64
+		{4360AD9E-59F9-435D-920A-8D70A92E5E63}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4360AD9E-59F9-435D-920A-8D70A92E5E63} = {A05A2F59-30AF-489E-D394-270D55B9817D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A965DDA5-91C2-42B1-BF91-4A0F1C2BE5B2}
+	EndGlobalSection
+EndGlobal
